@@ -1,6 +1,6 @@
-# Tudo sobre funções anônimas: adição de sufixos
+# Tudo sobre Funções Anónimas: Adição de Sufixos
 
-Complete a função `add_suffix` que retorna uma função anônima, que transforma sua entrada adicionando um sufixo particular no final.
+Complete a função `add_suffix` que retorna uma *função anónima*, que transforma sua entrada adicionando um sufixo particular no final.
 
 ### Exemplos
 
