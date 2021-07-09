@@ -1,3 +1,3 @@
-function minMax(arr) {
-    return [Math.min(...arr), Math.max(...arr)];
+function oddishOrEvenish(n) {
+    return `${n}`.split().reduce((a, b) => +a + (+b), 0);
 }
