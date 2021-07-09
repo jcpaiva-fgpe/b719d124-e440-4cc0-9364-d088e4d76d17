@@ -6,10 +6,13 @@ function main() {
     const arr = [];
     do {
         const n = parseInt(readln(), 10);
-        arr
+        if (n >= 0) {
+            arr.push(n);
+        }
     } while(n >= 0);
-
-    println(minMax(arr))
+    const [min, max] = minMax(arr);
+    println(min);
+    println(max);
 }
 
 /********************************************************
