@@ -4,15 +4,16 @@
 
 function main() {
     const arr = [];
+    let n;
     do {
-        const n = parseInt(readln(), 10);
+        n = parseInt(readln(), 10);
         if (n >= 0) {
             arr.push(n);
         }
     } while(n >= 0);
     const [min, max] = minMax(arr);
-    println(min);
-    println(max);
+    writeln(min);
+    writeln(max);
 }
 
 /********************************************************
