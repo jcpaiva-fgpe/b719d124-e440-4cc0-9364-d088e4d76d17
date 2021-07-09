@@ -1,15 +1,15 @@
-# Encontre o Menor e o Maior Número
+# Some os Números de um Único Número
 
-Completa a função `minMax` de forma a que receba uma lista de números e retorne os números mínimo e máximo, nessa ordem.
+Complete a função `addUp` que recebe um número como argumento e adiciona todos os números de `1` ao número que passar para a função. Por exemplo, se a entrada for `4`, a função deve retornar `10` porque `1 + 2 + 3 + 4 = 10`.
 
 ### Exemplos
 
 ```
-minMax([1, 2, 3, 4, 5]) ➞ [1, 5]
-minMax([2334454, 5])    ➞ [5, 2334454]
-minMax([1])             ➞ [1, 1]
+addUp (4)   ➞ 10
+addUp (13)  ➞ 91
+addUp (600) ➞ 180300
 ```
 
 ### Notas
 
-Todas as listas de teste terão pelo menos um elemento e serão válidas.
+Será um número positivo entre 1 e 1000. 
