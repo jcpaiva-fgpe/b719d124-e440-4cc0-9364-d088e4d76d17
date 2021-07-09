@@ -1,6 +1,6 @@
 # All About Anonymous Functions: Adding Suffixes
 
-Complete the function `add_suffix` that returns an anonymous function, which transforms its input by adding a particular suffix at the end.
+Complete the function `add_suffix` that returns an *anonymous function*, which transforms its input by adding a particular suffix at the end.
 
 ### Examples
 
