@@ -1,1 +1,1 @@
-{"id":"9f0ca061-e2e1-4ccf-a2bb-9ed09123c06e","name":"[R-UNLOCK] Ultimate Test","triggers":[],"criteria":{},"actions":[{"type":"GIVE","parameters":["8bb80d70-4030-43b0-8cb1-aab181c5eac4"]}]}
+{"id":"9f0ca061-e2e1-4ccf-a2bb-9ed09123c06e","name":"[R-UNLOCK] Ultimate Test","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["4731ad9c-338e-48d3-93d8-059f0d0fc550"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["8bb80d70-4030-43b0-8cb1-aab181c5eac4"]}]}
