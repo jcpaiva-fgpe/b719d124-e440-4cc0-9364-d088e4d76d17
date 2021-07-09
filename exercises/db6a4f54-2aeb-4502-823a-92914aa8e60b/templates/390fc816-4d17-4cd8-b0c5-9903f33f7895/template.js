@@ -3,17 +3,12 @@
  ********************************************************/
 
 function main() {
-    const arr = [];
-    let n;
-    do {
-        n = parseInt(readln(), 10);
-        if (n >= 0) {
-            arr.push(n);
-        }
-    } while(n >= 0);
-    const [min, max] = minMax(arr);
-    writeln(min);
-    writeln(max);
+    let ln;
+    while((ln = readln()).indexOf(' ') >= 0) {
+        const [s, ws] = ln.split(' ');
+        const addS = addSuffix(s);
+        ws.forEach(w => writeln(addS(w)));
+    }
 }
 
 /********************************************************
