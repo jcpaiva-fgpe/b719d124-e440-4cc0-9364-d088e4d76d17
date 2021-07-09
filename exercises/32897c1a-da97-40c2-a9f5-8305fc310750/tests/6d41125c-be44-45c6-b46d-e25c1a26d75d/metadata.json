@@ -1,1 +1,1 @@
-{"id":"6d41125c-be44-45c6-b46d-e25c1a26d75d","arguments":[],"weight":"0","visible":false,"input":"test2.in","output":"test2.out","timeout":2,"feedback":{}}
+{"id":"6d41125c-be44-45c6-b46d-e25c1a26d75d","arguments":[],"weight":"0","visible":"false","input":"test2.in","output":"test2.out","timeout":"-1","feedback":{}}
