@@ -1,1 +1,1 @@
-{"id":"3e42f787-3a94-46ba-9db0-119e9c314810","name":"Ultimate Test","description":"Solve D within one hour (3 600 000 ms).","refs":[],"mode":"TIME_BOMB","mode_parameters":["3600000"],"locked":true,"hidden":false,"difficulty":"MASTER","children":[],"rules":[],"rewards":[],"leaderboards":[]}
+{"id":"3e42f787-3a94-46ba-9db0-119e9c314810","name":"Ultimate Test","description":"Solve D.","refs":["db6a4f54-2aeb-4502-823a-92914aa8e60b"],"mode":"NORMAL","mode_parameters":[],"locked":false,"hidden":true,"difficulty":"AVERAGE","children":[]}
