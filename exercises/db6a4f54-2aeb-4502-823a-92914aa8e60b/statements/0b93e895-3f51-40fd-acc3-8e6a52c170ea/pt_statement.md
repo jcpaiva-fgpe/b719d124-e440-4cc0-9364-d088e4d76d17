@@ -4,15 +4,15 @@ Complete a função `add_suffix` que retorna uma *função anónima*, que transf
 
 ### Exemplos
 
-`` `
-add_ly = add_suffix ("ly")
+```
+add_ly = add_suffix("ly")
 
-add_ly ("sem esperança") ➞ "sem esperança"
-add_ly ("total") ➞ "totalmente"
-`` `
-`` `
-add_less = add_suffix ("menos")
+add_ly("hopeless") ➞ "hopelessly"
+add_ly("total") ➞ "totally"
+```
+```
+add_less = add_suffix("less")
 
-add_less ("fear") ➞ "destemido"
-add_less ("ruth") ➞ "implacável"
-`` `
+add_less("fear") ➞ "fearless"
+add_less("ruth") ➞ "ruthless"
+```
