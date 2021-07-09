@@ -1,0 +1,1 @@
+{"id":"c0bbf455-e938-4bbb-a386-4985f1c1c785","name":"[R-POINT] Point for Accepted","triggers":[],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["player","points","+1"]}]}
