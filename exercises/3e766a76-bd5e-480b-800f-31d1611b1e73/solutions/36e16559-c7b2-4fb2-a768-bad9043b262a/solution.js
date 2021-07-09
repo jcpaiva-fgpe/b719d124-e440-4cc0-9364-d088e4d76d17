@@ -1,18 +1,3 @@
-/********************************************************
- *              DO NOT TOUCH AREA: START                *
- ********************************************************/
-
-function main() {
-    const arr = [];
-    do {
-        const n = parseInt(readln(), 10);
-        arr
-    } while(n >= 0);
-
-    println(minMax(arr))
+function minMax(arr) {
+    return [Math.min(...arr), Math.max(...arr)];
 }
-
-/********************************************************
- *                DO NOT TOUCH AREA: END                *
- ********************************************************/
-
