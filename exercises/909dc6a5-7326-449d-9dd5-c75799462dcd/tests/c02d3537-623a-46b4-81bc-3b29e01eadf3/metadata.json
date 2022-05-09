@@ -1,1 +1,1 @@
-{"id":"c02d3537-623a-46b4-81bc-3b29e01eadf3","arguments":[],"weight":"0","visible":false,"input":"in","output":"out","timeout":2,"feedback":{}}
+{"id":"c02d3537-623a-46b4-81bc-3b29e01eadf3","arguments":"a,b","weight":"0","visible":"false","input":"in","output":"out","timeout":"2","feedback":""}
